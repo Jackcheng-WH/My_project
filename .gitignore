@@ -1,8 +1,11 @@
 #忽略456.txt文件
 456.txt
 
+#忽略123.txt文件
 123.txt
 
+#忽略index.txt文件
 index.txt
 
+#忽略qq.js文件
 qq.js
